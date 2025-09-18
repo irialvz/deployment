@@ -1,0 +1,3 @@
+[submodule "CV/cv2.md"]
+	path = CV/cv2.md
+	url = https://github.com/souzaramon/cv.md.git
